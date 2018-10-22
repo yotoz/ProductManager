@@ -1,0 +1,24 @@
+{
+    "User": {
+        "admin": {
+            "password": "admin",
+            "type": "admin"
+        },
+        "user": {
+            "password": "user",
+            "type": "user"
+        }
+    },
+    "Product": {
+        "Laptop": {
+            "explanation": "expensive computer.",
+            "image": "cloud-url",
+            "exist": "yes"
+        }, 
+        "Desktop": {
+            "explanation": "expensive computer",
+            "image": "cloud-url",
+            "exist": "no"
+        }
+    }
+}
